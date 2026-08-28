@@ -6,6 +6,6 @@ I like drawing or play games, I am a really great at drawing, I would like to do
 
 ## Navigation
 
-[Notebook](notebook.mdLinks to an external site.)
+[Notebook](notebook.md)
 
 [Home](index.md)
