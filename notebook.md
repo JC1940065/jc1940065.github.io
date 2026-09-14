@@ -36,14 +36,6 @@ Use `System.out.println()` to print
 
 # Example:
 
-**Class** = a blueprint for objects  
-
-*Remember:* always test your code  
-
-Use `System.out.println()` to print
-
-# Example:
-
 ```java
 
 public class Hello {
